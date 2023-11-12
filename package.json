@@ -1,0 +1,31 @@
+{
+  "name": "node-potato",
+  "version": "1.0.0",
+  "description": "A wrapper for the opinion potato API",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoloFTW/Node-Potato.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YoloFTW/Node-Potato/issues"
+  },
+  "homepage": "https://github.com/YoloFTW/Node-Potato#readme",
+  "dependencies": {
+    "axios": "^1.6.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.8",
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "setupFiles": [
+      "./testsVariables/jestVars.js"
+    ]
+  }
+}
