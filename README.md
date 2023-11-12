@@ -31,7 +31,7 @@
 
 Node Potato is a JavaScript API wrapper for Opinion Potato. It provides a simple and easy-to-use interface for interacting with the Opinion Potato API, allowing you to easily add Opinion Potato functionality to your own applications.
 
-An API key and API identifier is required to use this API wrapper. To obtain an API Key, you must first contact: [application@opinionpotato.com](mailto:application@opinionpotato.com) asking for a key, stating what you will use it for, and how you will interact with it.
+An API key and API identifier is required to use this API wrapper. To obtain an API Key, you must first contact: [api-keys@opinionpotato.com](mailto:api-keys@opinionpotato.com) asking for a key, stating what you will use it for, and how you will interact with it.
 
 If your application is successful, an API key and API identifier key will be sent to you via email.
 
